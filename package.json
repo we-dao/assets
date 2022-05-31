@@ -1,0 +1,19 @@
+{
+  "name": "@wedao/assets",
+  "version": "0.1.0",
+  "description": "Simplified Assets information",
+  "main": "index.js",
+  "scripts": {
+    "update": "node ./scripts/update.js",
+    "upgrade": "node ./scripts/upgrade.js",
+    "getImages": "node ./scripts/getImages.js"
+  },
+  "repository": "git@github.com:we-dao/assets.git",
+  "author": "msugarm",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "eth-multicall": "^1.4.0",
+    "web3": "^1.7.3"
+  }
+}

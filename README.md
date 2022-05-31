@@ -28,9 +28,9 @@ run script `scripts/update.js`
 
 running `scripts/update.js` should update (only add) new assets
 
-#### Update
+#### Upgrade
 
-running `scripts/upgrade.js` should update all assets with new info
+running `scripts/upgrade.js` should Upgrade all assets with new info
 
 #### get images
 
@@ -39,3 +39,12 @@ running `scripts/getImages.js` should add new logo images
 ## Nota Bene
 
 use `0x00000000000000000000000000000000000000` ( zero address ) as reference for the native coin
+
+## Image Requirements
+
+- File location: must be placed in the folder `images` folder.
+- File extention：only support PNG file.
+- File name：use CID as name without extention `bafkreif2jfndor3wvnwpv3gblm7d2d43ar2dzubqt6mvow4fth6acexaga`.
+- Dimension: `256px by 256px` or `512px by 512px`.
+- Background: preferably transparent (should fit dark mode as well; black logos need light border/background).
+- File size: maximum 100KB. Tip: optimize image size using [sharp](https://www.npmjs.com/package/sharp).
