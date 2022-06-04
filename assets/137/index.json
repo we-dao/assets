@@ -24,5 +24,835 @@
         "url": "https://github.com/maticnetwork/"
       }
     ]
+  },
+  {
+    "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+    "name": "Krill",
+    "symbol": "Krill",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://polywhale.finance/",
+    "description": "PolyWhale is a popular yield farm on Polygon that allows users to earn KRILL through yield farming, then stakes it in Nests to earn more tokens.",
+    "logo": ""
+  },
+  {
+    "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+    "name": "Impossible Decentralized Incubator Access Token",
+    "symbol": "IDIA",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://invest.impossible.finance/launchpad",
+    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. The IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible.",
+    "logo": ""
+  },
+  {
+    "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+    "name": "SushiToken (PoS)",
+    "symbol": "SUSHI",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://sushi.com/",
+    "description": "Sushi is the home of DeFi. Our community is building a comprehensive, decentralized trading platform for the future of finance.",
+    "logo": ""
+  },
+  {
+    "address": "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579",
+    "name": "EverRise",
+    "symbol": "RISE",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.everrise.com/",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "logo": ""
+  },
+  {
+    "address": "0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4",
+    "name": "SpaceRat",
+    "symbol": "SRAT",
+    "interface": "ERC20",
+    "decimals": 9,
+    "website": "https://spacerat.finance/",
+    "description": "SpaceRat is a community-driven project built on Matic Network. Three functions occur during each trade: Reflection, LP Acquisition, & Burn.",
+    "logo": ""
+  },
+  {
+    "address": "0x11CD37bb86F65419713f30673A480EA33c826872",
+    "name": "Wrapped Ether (Wormhole)",
+    "symbol": "WETH",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://ethereum.org/en/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
+    "name": "WrappedConceal",
+    "symbol": "wCCX",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://conceal.network/",
+    "description": "Wrapped Conceal ($wCCX) is just a representation of ₡CCX on any of the available bridged ecosystems — a tokenized ₡CCX. Exactly one $wCCX will always represent (or equal) one ₡CCX.",
+    "logo": ""
+  },
+  {
+    "address": "0x1631244689EC1fEcbDD22fb5916E920dFC9b8D30",
+    "name": "OVR (PoS)",
+    "symbol": "OVR",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.ovr.ai/",
+    "description": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality",
+    "logo": ""
+  },
+  {
+    "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+    "name": "Daily COP",
+    "symbol": "DLYCOP",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://dlycrypto.com/",
+    "description": "Daily COP is a stablecoin pegged to the Colombian Peso to make financial services accesible to everyone and let Colombians easily enter the crypto-space with a familiar and stable currency that will open a new world of knowledge and opportunities.",
+    "logo": ""
+  },
+  {
+    "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+    "name": "Route",
+    "symbol": "ROUTE (PoS)",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.routerprotocol.com/",
+    "description": "Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.",
+    "logo": ""
+  },
+  {
+    "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+    "name": "CRV (PoS)",
+    "symbol": "CRV",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.curve.fi/",
+    "description": "The main purposes of the Curve DAO token are to incentivise liquidity providers on the Curve Finance platform as well as getting as many users involved as possible in the governance of the protocol.",
+    "logo": ""
+  },
+  {
+    "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+    "name": "BLOK",
+    "symbol": "BLOK",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.bloktopia.com/",
+    "description": "Bloktopia is a Skyscraper Metaverse built and Backed by Polygon.",
+    "logo": ""
+  },
+  {
+    "address": "0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e",
+    "name": "EverRise NFT Stakes",
+    "symbol": "nftRISE",
+    "interface": "ERC20",
+    "decimals": 0,
+    "website": "https://www.everrise.com/",
+    "description": "EverRise Staking NFTs are containers of Vote Escrowed (ve)EverRise weighted governance tokens. veRISE generates rewards from the auto-buyback with a market driven yield curve, based on the transaction volume of EverRise trades and veEverRise sales.",
+    "logo": ""
+  },
+  {
+    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "name": "USD Coin (PoS)",
+    "symbol": "USDC",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://centre.io/usdc",
+    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+    "logo": ""
+  },
+  {
+    "address": "0x3553f861dEc0257baDA9F8Ed268bf0D74e45E89C",
+    "name": "USDT (Wormhole)",
+    "symbol": "USDT",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://tether.to/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+    "name": "Fish",
+    "symbol": "FISH",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://polycat.finance",
+    "description": "Value-oriented, economically sustainable hybrid yield aggregator on Polygon.",
+    "logo": ""
+  },
+  {
+    "address": "0x3a9A81d576d83FF21f26f325066054540720fC34",
+    "name": "Streamr",
+    "symbol": "DATA",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://streamr.network",
+    "description": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+    "logo": ""
+  },
+  {
+    "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+    "name": "GameStation",
+    "symbol": "GAMER",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.gamestation.io/",
+    "description": "GameStation is a decentralized multi-chain gaming launchpad and marketplace.",
+    "logo": ""
+  },
+  {
+    "address": "0x4318CB63A2b8edf2De971E2F17F77097e499459D",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://www.circle.com/en/usdc",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+    "name": "WolfSafePoorPeople",
+    "symbol": "WSPP",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.wolfible.com/",
+    "description": "WSPP is a PRC-20 token, which was designed to develop NFT and GameFi programs of the project, as well as for AMA rewards, trading, staking and farming within the platform.",
+    "logo": ""
+  },
+  {
+    "address": "0x48cBc913dE09317dF2365e6827Df50dA083701D5",
+    "name": "The 4th Pillar Token (PoS)",
+    "symbol": "FOUR",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://4thtech.io/",
+    "description": "FOUR is 4thTech ecosystem utility token used as the primary means to enable services such as data file and instant messages wallet to wallet exchange.",
+    "logo": ""
+  },
+  {
+    "address": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+    "name": "WaultSwap Polygon",
+    "symbol": "WEXpoly",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://wault.finance",
+    "description": "Wault Finance is a decentralized finance hub that connects all of the primary DeFi use-cases within one simple ecosystem, on the Binance Smart Chain. In short, an all-in-one DeFi Platform!We’ve built a protocol including 2 tokens – WAULTx and WEX – and some unique features such as: WaultSwap (AMM), Wault Launchpad (new project presales), Wault Locker (liquidity locks for new or established projects), Wault Farms (staking and farming) and many other great services.",
+    "logo": ""
+  },
+  {
+    "address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+    "name": "OddzToken",
+    "symbol": "ODDZ",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.oddz.fi/",
+    "description": "Multi-chain Derivatives Trading Protocol.",
+    "logo": ""
+  },
+  {
+    "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://chain.link/",
+    "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
+    "logo": ""
+  },
+  {
+    "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+    "name": "Million (PoS)",
+    "symbol": "MM",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://milliontoken.org",
+    "description": "Million is a digital currency with 1,000,000 total supply. https://milliontoken.org",
+    "logo": ""
+  },
+  {
+    "address": "0x576Cf361711cd940CD9C397BB98C4C896cBd38De",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://www.circle.com/en/usdc",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+    "name": "Qi Dao",
+    "symbol": "QI",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.mai.finance/",
+    "description": "Qi (pronounced CHEE) is the governance token of the QiDao Protocol. It allows those who hold it to vote on changes to the QiDao Protocol.",
+    "logo": ""
+  },
+  {
+    "address": "0x58c1BBb508e96CfEC1787Acf6Afe1C7008A5B064",
+    "name": "hoge.finance",
+    "symbol": "HOGE",
+    "interface": "ERC20",
+    "decimals": 9,
+    "website": "https://hogefinance.com",
+    "description": "We Meme Business.",
+    "logo": ""
+  },
+  {
+    "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+    "name": "Wrapped BTC (Wormhole)",
+    "symbol": "WBTC",
+    "interface": "ERC20",
+    "decimals": 8,
+    "website": "https://www.wbtc.network/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+    "name": "Orion Money Token (Wormhole)",
+    "symbol": "ORION",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://orion.money/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+    "name": "PYQ",
+    "symbol": "PYQ",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://app.polyquity.org/",
+    "description": "PolyQuity is a decentralized borrowing protocol that allows users to draw interest-free loans against Matic used as collateral.",
+    "logo": ""
+  },
+  {
+    "address": "0x5d47bAbA0d66083C52009271faF3F50DCc01023C",
+    "name": "ApeSwapFinance Banana",
+    "symbol": "BANANA",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://apeswap.finance",
+    "description": "ApeSwap is an Automated Market Maker, Yield Farming, and Staking platform on Binance Smart Chain. ApeSwap was built by DeFi Apes, for DeFi Apes. We have a dedicated team of experienced monkeys, who have been in the crypto space for years.",
+    "logo": ""
+  },
+  {
+    "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+    "name": "0xBitcoin Token",
+    "symbol": "0xBTC",
+    "interface": "ERC20",
+    "decimals": 8,
+    "website": "https://0xbitcoin.org/",
+    "description": "Pure-mined neutral token.",
+    "logo": ""
+  },
+  {
+    "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+    "name": "Augury Finance",
+    "symbol": "OMEN",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://augury.finance/",
+    "description": "Augury Finance is a financial ecosystem on the Polygon (MATIC) blockchain which focuses on trust, community ownership, and sustainable returns.",
+    "logo": ""
+  },
+  {
+    "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+    "name": "Wrapped AVAX (Wormhole)",
+    "symbol": "WAVAX",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.avax.network/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+    "name": "Paint",
+    "symbol": "PAINT",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://murall.art",
+    "description": "MurAll is a 2048x1024px digital mural that anyone can draw on without restriction. MurAll requires PAINT - a fixed supply token synonymous with real-life paint, which is burned in the painting transaction. Painting on MurAll also mints a MURALL NFT of the artwork for the artist to keep.",
+    "logo": ""
+  },
+  {
+    "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://weth.io/",
+    "description": "WETH is Wrapped Ether",
+    "logo": ""
+  },
+  {
+    "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+    "name": "Quickswap",
+    "symbol": "QUICK",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://quickswap.exchange/",
+    "description": "Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon",
+    "logo": ""
+  },
+  {
+    "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
+    "name": "Gravity Finance",
+    "symbol": "GFI",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://gravityfinance.io/",
+    "description": "Gravity Finance is a suite of DeFi products on the Polygon Network.",
+    "logo": ""
+  },
+  {
+    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "name": "PolyDoge",
+    "symbol": "PolyDoge",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://polydoge.com",
+    "description": "PolyDoge is a digital currency with one of the most vibrant communities on the powerful Polygon Network.",
+    "logo": ""
+  },
+  {
+    "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+    "name": "dHedge DAO Token (PoS)",
+    "symbol": "DHT",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.dhedge.org/",
+    "description": "Decentralized asset management protocol connecting the world’s best investment managers with investors in a permissionless, trustless fashion.",
+    "logo": ""
+  },
+  {
+    "address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
+    "name": "Pleasure Coin",
+    "symbol": "NSFW",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://pleasurecoin.com/",
+    "description": "Pleasure Coin (NSFW) is an ERC-20 token on the Polygon chain that will be utilized within the Pleasure Network, an adult industry ecosystem that empowers individuals and businesses.",
+    "logo": ""
+  },
+  {
+    "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+    "name": "moonwolf.io",
+    "symbol": "WOLF",
+    "interface": "ERC20",
+    "decimals": 9,
+    "website": "https://moonwolf.io",
+    "description": "Moonwolf is a deflationary token on Matic / Polygon",
+    "logo": ""
+  },
+  {
+    "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "name": "(PoS) Dai Stablecoin",
+    "symbol": "DAI",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "http://makerdao.com",
+    "description": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
+    "logo": ""
+  },
+  {
+    "address": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+    "name": "Tether USD (Wormhole)",
+    "symbol": "USDT",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://tether.to/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+    "name": "Matic Aave interest bearing USDC",
+    "symbol": "maUSDC",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://www.aavegotchi.com/",
+    "description": "aTokens on Polygon are known as maTokens.",
+    "logo": ""
+  },
+  {
+    "address": "0x9EECD634c7a934F752aF0EB90DdA9Ecc262F199F",
+    "name": "UniCrypt (PoS)",
+    "symbol": "UNCX",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://unicrypt.network",
+    "description": "UNCX is the governance token of the UniCrypt platform.",
+    "logo": ""
+  },
+  {
+    "address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+    "name": "PUSD",
+    "symbol": "PUSD",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://app.polyquity.org/",
+    "description": "PUSD is a completely decentralized stablecoin minted by staking Matic on Polygon network. PUSD is the USD-pegged stablecoin used to pay out loans on the PolyQuity protocol.",
+    "logo": ""
+  },
+  {
+    "address": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
+    "name": "ISLAMICOIN",
+    "symbol": "ISLAMI",
+    "interface": "ERC20",
+    "decimals": 7,
+    "website": "https://islamicoin.finance",
+    "description": "ISLAMICOIN A Cryptocurrency For The Global Muslim Community",
+    "logo": ""
+  },
+  {
+    "address": "0x9cd6746665D9557e1B9a775819625711d0693439",
+    "name": "LUNA (Wormhole)",
+    "symbol": "LUNA",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://terra.money",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0xA8D394fE7380b8cE6145d5f85E6aC22d4E91ACDe",
+    "name": "BUSD Token (Wormhole)",
+    "symbol": "BUSD",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.paxos.com/busd/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
+    "name": "CRO (PoS)",
+    "symbol": "CRO",
+    "interface": "ERC20",
+    "decimals": 8,
+    "website": "https://crypto.com/",
+    "description": "The most profitable and secure platform to entrust your digital assets. Absolutely safe with multi-layer encrypted protection.",
+    "logo": ""
+  },
+  {
+    "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
+    "name": "Impossible Finance",
+    "symbol": "IF",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://impossible.finance",
+    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. IF is the governance and fee accrual token for the swap.",
+    "logo": ""
+  },
+  {
+    "address": "0xB6EBc3ca1741a8f37551E44A51eC00aD417B38CA",
+    "name": "Ariadne",
+    "symbol": "ARDN",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://ariadne.finance",
+    "description": "Ariadne is a cross-chain DeFi marketplace that is lowering the fees to enter/exit farms on multiple blockchains and saves swaps and bridges costs for both EVM and non-EVM chains.",
+    "logo": ""
+  },
+  {
+    "address": "0xBCD287ca1C614Ecd8c5Ca95bFf3c13c392192df5",
+    "name": "AirNFT Token",
+    "symbol": "AIRT",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.airnfts.com/",
+    "description": "AirNFTs is NFT marketplace built for multi-chain NFTs on BSC and Polygon and many more, where you can Mint, Trade, Earn with your NFTs.",
+    "logo": ""
+  },
+  {
+    "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+    "name": "DFYN Token (PoS)",
+    "symbol": "DFYN",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://dfyn.network/",
+    "description": "The DFYN token, will perform a crucial role in the functioning of the Dfyn ecosystem. The DFYN token is expected to have multiple utilities.",
+    "logo": ""
+  },
+  {
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "name": "EverRise",
+    "symbol": "RISE",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.everrise.com/",
+    "description": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol.",
+    "logo": ""
+  },
+  {
+    "address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
+    "name": "Polyroll Token",
+    "symbol": "ROLL",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://polyroll.org/",
+    "description": "Polyroll is a decentralized casino powered by Chainlink and Polygon. It claims to be provably fair, transparent and immutable games, anytime anywhere.",
+    "logo": ""
+  },
+  {
+    "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+    "name": "Aave (PoS)",
+    "symbol": "AAVE",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://aave.com",
+    "description": "Aave Protocol is a decentralised liquidity protocol where people can lend and borrow digital assets. The AAVE token is the governance token of the protocol, so AAVE holders can vote on proposals for updates. AAVE holders can also stake their AAVE in the protocol Safety Module and earn Safety Incentives for securing the protocol",
+    "logo": ""
+  },
+  {
+    "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+    "name": "IRON Stablecoin",
+    "symbol": "IRON",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://polygon.iron.finance/",
+    "description": "Multi-chain Partial-Collateralized Stablecoin",
+    "logo": ""
+  },
+  {
+    "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+    "name": "DEI",
+    "symbol": "DEI",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://deus.finance/",
+    "description": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
+    "logo": ""
+  },
+  {
+    "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+    "name": "DEUS",
+    "symbol": "DEUS",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://deus.finance/",
+    "description": "DEUS Finance Evolution is a marketplace of decentralized financial services, where we provide the infrastructure for others to build financial instruments, such as synthetic stock trading platforms, options, and futures trading.",
+    "logo": ""
+  },
+  {
+    "address": "0xDbA7b24257fC6e397cB7368B4BC922E944072f1b",
+    "name": "Vote-escrowed EverRise",
+    "symbol": "veRISE",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.everrise.com/",
+    "description": "Virtual token that allows the Vote Escrowed (ve) EverRise weighted governance tokens from EverRise Staking NFTs to display in wallet balances.",
+    "logo": ""
+  },
+  {
+    "address": "0xE33dC9d2D7D64c1e23467aC7eD7F8eF56d0a8d66",
+    "name": "CherryPick",
+    "symbol": "pCherry",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.fletaconnect.io",
+    "description": "Fleta Connect is a new DeFi(Decentralized Finance) service created by Team Fleta with years of experience in the field. It is willing to offer significant benefits to our users with its own buyback mechanism and aims to give more rewards to DeFi users.",
+    "logo": ""
+  },
+  {
+    "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+    "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://wormholebridge.com",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0xEAf631ac57F3CDDDd261770dD47F85066131a156",
+    "name": "Equalizer (PoS)",
+    "symbol": "EQZ",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.equalizer.finance/",
+    "description": "Equalizer is the first dedicated flash loan marketplace that can handle the rising demand for DeFi lending and borrowing. It sets itself apart by offering the lowest fees and transaction costs, a virtually unlimited choice of token vaults, high liquidity through yield farming, scalable, multi-chain infrastructure, and integration friendly.",
+    "logo": ""
+  },
+  {
+    "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+    "name": "miMATIC",
+    "symbol": "miMATIC",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.mai.finance/",
+    "description": "MAI (miMatic) is a stablecoin backed by collateral, and can only be minted with this collateral backing it. MAI is soft pegged to the USD, meaning that 1 MAI is around 1 USD.",
+    "logo": ""
+  },
+  {
+    "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+    "name": "IRON Titanium Token",
+    "symbol": "TITAN",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://polygon.iron.finance",
+    "description": "Multi-chain Partial-Collateralized Stablecoin",
+    "logo": ""
+  },
+  {
+    "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+    "name": "Uniswap (PoS)",
+    "symbol": "UNI",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://uniswap.org/",
+    "description": "The Uniswap protocol empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all.",
+    "logo": ""
+  },
+  {
+    "address": "0xbBD7B847C6d0d0B5691518a363194D71426475F1",
+    "name": "EverRise Rewards",
+    "symbol": "claimRISE",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.everrise.com/",
+    "description": "Virtual token that allows unclaimed rewards from EverRise Staking NFTs and its Vote Escrowed (ve) EverRise to display in wallet balances.",
+    "logo": ""
+  },
+  {
+    "address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+    "name": "Pegaxy Stone",
+    "symbol": "PGX",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://pegaxy.io",
+    "description": "Pegaxy Game Native Governance Token",
+    "logo": ""
+  },
+  {
+    "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "name": "(PoS) Tether USD",
+    "symbol": "USDT",
+    "interface": "ERC20",
+    "decimals": 6,
+    "website": "https://tether.to",
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+    "logo": ""
+  },
+  {
+    "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+    "name": "Adamant",
+    "symbol": "ADDY",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://adamant.finance/",
+    "description": "Adamant is a yield optimizer vault that provides users with an easy and safe way to automatically compound their tokens on the Polygon (MATIC) network and maximize their yields.",
+    "logo": ""
+  },
+  {
+    "address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
+    "name": "Geyser (PoS)",
+    "symbol": "GYSR",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://gysr.io",
+    "description": "GYSR is an open platform for on-chain incentives.",
+    "logo": ""
+  },
+  {
+    "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+    "name": "Pear Token",
+    "symbol": "PEAR",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://app.pearzap.com/",
+    "description": "High yield farms & pools on the Polygon Chain. Secure, experienced team and innovative farm features",
+    "logo": ""
+  },
+  {
+    "address": "0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7",
+    "name": "Stacker Ventures Token (PoS)",
+    "symbol": "STACK",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://stacker.vc/polygon",
+    "description": "Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.",
+    "logo": ""
+  },
+  {
+    "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+    "name": "GAMEE",
+    "symbol": "GMEE",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://token.gamee.com",
+    "description": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
+    "logo": ""
+  },
+  {
+    "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+    "name": "Wrapped SOL (Wormhole)",
+    "symbol": "SOL",
+    "interface": "ERC20",
+    "decimals": 9,
+    "website": "https://solana.com/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+    "name": "Telcoin (PoS)",
+    "symbol": "TEL",
+    "interface": "ERC20",
+    "decimals": 2,
+    "website": "https://www.telco.in/",
+    "description": "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
+    "logo": ""
+  },
+  {
+    "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+    "name": "PayBolt",
+    "symbol": "PAY",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.paybolt.io/",
+    "description": "Pay expenses, earn $PAY rewards with your crypto tokens in near-instant time. Start spending your tokens at cafe, restaurant and everywhere.",
+    "logo": ""
+  },
+  {
+    "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
+    "name": "Wrapped BNB (Wormhole)",
+    "symbol": "WBNB",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://www.binance.com/",
+    "description": "Cross Chain Portal Bridged Token",
+    "logo": ""
+  },
+  {
+    "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+    "name": "Decentral Games (PoS)",
+    "symbol": "DG",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://decentral.games",
+    "description": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
+    "logo": ""
+  },
+  {
+    "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
+    "name": "CremePieSwap Token",
+    "symbol": "CPIE",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "https://cremepieswap.finance",
+    "description": "Lead chain adoption by creating the lowest fee, highest rewarding AMM on the Polygon (MATIC) network.",
+    "logo": ""
   }
 ]
