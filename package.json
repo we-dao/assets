@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "update": "node ./scripts/update.js",
-    "getImages": "node ./scripts/getImages.js"
+    "getLogos": "node ./scripts/getLogos.js"
   },
   "repository": "git@github.com:we-dao/assets.git",
   "author": "msugarm",
