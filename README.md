@@ -26,15 +26,11 @@ run script `scripts/update.js`
 
 #### Update
 
-running `scripts/update.js` should update (only add) new assets
+running `scripts/update.js <CHAIN_ID>` or just `yarn update <CHAIN_ID>` should update (only add) new assets
 
-#### Upgrade
+#### get logos
 
-running `scripts/upgrade.js` should Upgrade all assets with new info
-
-#### get images
-
-running `scripts/getImages.js` should add new logo images
+running `scripts/getLogo.js <CHAIN_ID>` or just `yarn getLogos <CHAIN_ID>` should add new logo a chain
 
 ## Nota Bene
 
@@ -42,7 +38,7 @@ use `0x00000000000000000000000000000000000000` ( zero address ) as reference for
 
 ## Image Requirements
 
-- File location: must be placed in the folder `images` folder.
+- File location: must be placed in the folder `storage` folder.
 - File extention：only support PNG file.
 - File name：use CID as name without extention `bafkreif2jfndor3wvnwpv3gblm7d2d43ar2dzubqt6mvow4fth6acexaga`.
 - Dimension: `256px by 256px` or `512px by 512px`.
