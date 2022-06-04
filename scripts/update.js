@@ -74,7 +74,7 @@ const main = async () => {
   let allRes = await Promise.allSettled(
     Object.keys(multicallRes).map((a) =>
       axios.get(
-        `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/${a}/info.json`
+        `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/${CHAIN.name}/assets/${a}/info.json`
       )
     )
   );
