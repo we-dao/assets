@@ -2,6 +2,26 @@
 
 ![Check](https://github.com/we-dao/assets/workflows/Check/badge.svg)
 
+# install
+
+```javascript
+
+// using npm
+npm install @we-dao/assets
+
+// or using yarn
+yarn install @we-dao/assets
+
+```
+
+# how to use
+
+```javascript
+const assets = require("@we-dao/assets");
+
+let usdAssets = assets.polygon.filter((a) => a.symbol.includes("USD"));
+```
+
 ## Overview
 
 weDAO token repository is a simplified, up-to-date collection of information about several thousands (!) of crypto tokens.
