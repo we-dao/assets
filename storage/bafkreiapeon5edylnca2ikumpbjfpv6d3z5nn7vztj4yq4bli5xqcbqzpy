@@ -1,0 +1,25 @@
+{
+  "tokenLogo": "",
+  "logo": "bafybeidyjknefezelbqpl63k2iiua6e7fgrwmc2ser7cp6eohrjz3yu54e",
+  "cover": "bafybeibiddaru5wtugkow27yjw4y2iudkt65fddo5xztpptp5zkhxy2try",
+  "about": {
+    "location": "internet",
+    "shortDescription": "Short description, whatever you want describing your project goes here",
+    "email": "hello@wedao.network",
+    "github": "wedao"
+  },
+  "team": {
+    "vbuterin": "https://github.com/vbuterin",
+    "potato": "https://github.com/potato",
+    "linux": "https://github.com/linux"
+  },
+  "social": {
+    "twitter": "wedao_network",
+    "discord": "tr9gaA2HkR",
+    "telegram": "wedaonetwork",
+    "instagram": "wedaonetwork",
+    "facebook": "wedaonetwork"
+  },
+  "topics": ["defi", "borrow", "lend", "yoko"],
+  "description": "# What Meta value in Governance\n\nMeta is a string value that point for a JSON file using IPFS - CID.\nThis JSON file follow next structure:\n\n```json\n{\n    'logo': '',\n    'cover': '',\n    'tokenLogo': '',\n    'shortDescription': '',\n    'description': ''\n}\n````\n\n## About logo, cover and tokenLogo\nThis values are string with `ipfs CID` that point to a PNG or SVG file. In case of null, will generate a blockie avatar or plain color\n\n## About shortDescription\nIs the short description of 180 characters that will appear that in DAO list\n\n# About Description\nIs a string value that should describe in detail what your DAO do. You can use markdown format and this website will render it.\nbtw, this is the description example for every new dao. =P"
+}
