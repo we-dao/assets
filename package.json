@@ -1,6 +1,6 @@
 {
   "name": "@we-dao/assets",
-  "version": "0.2.3",
+  "version": "0.2.3-a",
   "description": "Simplified Assets information",
   "main": "index.js",
   "scripts": {
