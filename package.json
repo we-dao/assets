@@ -1,8 +1,8 @@
 {
   "name": "@we-dao/assets",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "description": "Simplified Assets information",
-  "main": "index.js",
+  "main": "index.cjs",
   "type": "module",
   "scripts": {
     "update": "node ./scripts/update.cjs",
