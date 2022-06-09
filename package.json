@@ -3,18 +3,20 @@
   "version": "0.2.0",
   "description": "Simplified Assets information",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "update": "node ./scripts/update.js",
+    "update": "node ./scripts/update.cjs",
     "getLogos": "node ./scripts/getLogos.js"
   },
   "repository": "git@github.com:we-dao/assets.git",
   "author": "msugarm",
   "license": "MIT",
-  "private": false,
   "devDependencies": {
     "axios": "^0.27.2",
     "eth-multicall": "^1.4.0",
+    "ipfs-core": "^0.15.1",
     "lodash": "^4.17.21",
-    "web3": "^1.7.3"
+    "web3": "^1.7.3",
+    "web3.storage": "^4.2.0"
   }
 }

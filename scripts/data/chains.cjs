@@ -16,7 +16,7 @@ const chains = {
     ],
     explorer: "https://bscscan.com",
     multicall: "0xB94858b0bB5437498F5453A16039337e5Fdc269C",
-    weRegistry: "",
+    weRegistry: "0x4f6d71abB696e3a61bA69876fcF56AcF1C3d496f",
   },
   137: {
     name: "polygon",

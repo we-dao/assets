@@ -1,6 +1,6 @@
 const Web3 = require("web3");
 const { MultiCall } = require("eth-multicall");
-const chains = require("../data/chains");
+const chains = require("../data/chains.cjs");
 
 const ABI = {
   weRegistry: require("../data/abis/we_registry.json"),
