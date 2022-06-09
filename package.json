@@ -2,10 +2,9 @@
   "name": "@we-dao/assets",
   "version": "0.2.3",
   "description": "Simplified Assets information",
-  "main": "index.cjs",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "update": "node ./scripts/update.cjs",
+    "update": "node ./scripts/update.js",
     "getLogos": "node ./scripts/getLogos.js"
   },
   "repository": "git@github.com:we-dao/assets.git",

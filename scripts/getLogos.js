@@ -6,21 +6,19 @@
  * 7 - continue with iteration
  */
 
-import fs from "fs";
-import _ from "lodash";
-import * as IPFS from "";
-import axios from "axios";
-import chains from "./data/chains.cjs";
+const fs = require("fs");
+const _ = require("lodash");
+const axios = require("axios");
+const chains = require("./data/chains.cjs");
 const CHAIN_ID = Number(process.argv[2]);
 const CHAIN = chains[CHAIN_ID];
-const ASSETS = `../assets/${CHAIN_ID}/index.json`;
+const ASSETS = require(`../assets/${CHAIN_ID}/index.json`);
 
-import { Web3Storage, File } from "web3.storage";
+const { Web3Storage, File } = require("web3.storage");
 
 //  https://dweb.link/ipfs/YOUR_CID
 
 async function main() {
-  const ipfs = await IPFS.create();
   const token = process.env.WEB3_STORAGE_TOKEN;
 
   if (!token) {
