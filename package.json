@@ -13,9 +13,9 @@
   "devDependencies": {
     "axios": "^0.27.2",
     "eth-multicall": "^1.4.0",
-    "ipfs-core": "^0.15.1",
+    "ipfs-core": "^0.15.4",
     "lodash": "^4.17.21",
-    "web3": "^1.7.3",
-    "web3.storage": "^4.2.0"
+    "web3": "^1.7.4",
+    "web3.storage": "^4.3.0"
   }
 }
