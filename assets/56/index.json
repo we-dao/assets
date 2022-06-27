@@ -3112,5 +3112,105 @@
     "website": "",
     "description": "",
     "logo": ""
+  },
+  {
+    "address": "0xEbcDaF15D09829f7A2343Ab39C03126C8a7Ca016",
+    "name": "ABC token",
+    "symbol": "ABC",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0xc1CA18641aDAa95b6BCC193DFa0107618AF41758",
+    "name": "XYZ token",
+    "symbol": "XYZ",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0x51107212aB0fa74F78ad252B9Cc8EB299B325E3D",
+    "name": "LOL token",
+    "symbol": "LOL",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0xEf2b2D14c8041787eD23ed07D8C58C357f86FD1E",
+    "name": "GAGA token",
+    "symbol": "GAGA",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0xA60d5402E02bfE36629B72Aa53d3023EA4D5E561",
+    "name": "ZZZ token",
+    "symbol": "ZZZ",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0x69C3c29F26ed8EEF01BF7f1629d96bc54aaD5eA5",
+    "name": "ALEX token",
+    "symbol": "ALEX",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0x5314e88ac995893AD0036C93EEcE587A33330b76",
+    "name": "coldplay token",
+    "symbol": "COLD",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0xF74898cb44FF29F1aaF012A7b42360A552445Cc1",
+    "name": "go  token",
+    "symbol": "go",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0x9F8EA6d05B1D4cD5644A520bA1FcE67EA64e5265",
+    "name": "point-g token",
+    "symbol": "G",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
+  },
+  {
+    "address": "0x733B456181048C1A0C4899aC3f62e824Aa2cB06E",
+    "name": "BTC Mining DAO token",
+    "symbol": "BHR",
+    "interface": "ERC20",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "logo": ""
   }
 ]
