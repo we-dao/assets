@@ -64,3 +64,6 @@ use `0x00000000000000000000000000000000000000` ( zero address ) as reference for
 - Dimension: `256px by 256px` or `512px by 512px`.
 - Background: preferably transparent (should fit dark mode as well; black logos need light border/background).
 - File size: maximum 100KB. Tip: optimize image size using [sharp](https://www.npmjs.com/package/sharp).
+
+## Supporters
+- [GitBook](https://gitbook.com)
